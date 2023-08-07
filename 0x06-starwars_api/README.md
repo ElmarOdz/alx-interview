@@ -1,6 +1,6 @@
 # 0x06. Star Wars API
 
-## Star Wars Characters
+     Star Wars Characters
 
     ## Write a script that prints all characters of a Star Wars movie:
     - The first positional argument passed is the Movie ID - example: 3 = “Return of the Jedi”
@@ -8,7 +8,7 @@
     - You must use the Star wars API
     - You must use the request module
 
-## Example
+     Example
 
     ##alexa@ubuntu:~/0x06$ ./0-starwars_characters.js 3
     
